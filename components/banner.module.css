@@ -14,14 +14,18 @@
   
   .title1 {
     color: rgba(249, 250, 251, 1);
+
+  
   }
   
   .title2 {
+
     display: block;
     color: var(--text-purple-dark);
   }
   
   .subTitle {
+
     margin-top: 0.75rem;
     font-size: 1.5rem /* 24px */;
     line-height: 2rem /* 32px */;
@@ -40,11 +44,11 @@
     color: white;
     outline: 0;
     border: 0px;
-    border-radius: 10px;
+    border-radius: 30px;
   
     padding-top: 1rem /* 16px */;
     padding-bottom: 1rem /* 16px */;
-    font-size: 1.125rem /* 18px */;
+    font-size: 1.5rem /* 18px */;
     line-height: 1.75rem /* 28px */;
     padding-left: 2.5rem /* 40px */;
     padding-right: 2.5rem /* 40px */;

@@ -14,6 +14,7 @@ export default function Home() {
       <Head>
         <title>Lulo</title>
         <link rel="icon" href="/favicon.ico" />
+        <link rel="preload" href="/fonts/NexaBold.otf" />
       </Head>
 
       <main className={styles.main}>
@@ -21,7 +22,7 @@ export default function Home() {
    
         </h1>
 
-        <Banner buttonText= "Sign Up with Lulo" handleOnClick={handleOnBannerButtonClick}/>
+        <Banner buttonText= "Sign Up with" handleOnClick={handleOnBannerButtonClick}/>
 
  
 

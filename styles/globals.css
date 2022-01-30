@@ -12,6 +12,16 @@ body {
     background-size: cover;
 }
 
+@font-face {
+  font-family: "Nexa";
+  src: url("/public/fonts/NexaBold.otf");
+  
+}
+@font-face {
+  font-family: "Nexa";
+  src: url("/public/fonts/NexaLight.otf");
+}
+
 
 
 a {
