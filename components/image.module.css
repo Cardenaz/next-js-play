@@ -1,3 +1,11 @@
+
+
+
+ .imageWrapper {
+  color: var(--text-white-100);
+}
+
+
 @media (min-width: 1024px) {
     .cardHeader {
       width: 16rem /* 256px */;
@@ -9,3 +17,5 @@
       width: 16rem /* 256px */;
     }
   }
+
+

@@ -21,9 +21,9 @@ export default function Home() {
    
         </h1>
 
-        <Banner buttonText= "Sign Up" handleOnClick={handleOnBannerButtonClick}/>
+        <Banner buttonText= "Sign Up with Lulo" handleOnClick={handleOnBannerButtonClick}/>
 
-      <TopImage assetName={"/static/3-phones"}/>
+ 
 
 <div className={styles.cardLayout}>
 <Card name={"How Lulo Works"} asset={"/static/howluloworks.png"}/>
